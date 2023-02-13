@@ -41,8 +41,9 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
 <br><img src="images/workspace2.png" width="30%">
 
 ### 4. UnityFramework.framework を追加
-- Generalタブの ```Frameworks, Libraries, and Embedded Content``` に ```Unity-iPhone/UnityFramework.framework``` を追加
-- Build Phasesの ```Link Binary With Libraries``` から ```UnityFramework.framework``` を削除
+- NativeiOSApp を選択
+  - Generalタブの ```Frameworks, Libraries, and Embedded Content``` に ```Unity-iPhone/UnityFramework.framework``` を追加
+  - Build Phasesの ```Link Binary With Libraries``` から ```UnityFramework.framework``` を削除
 
 ### 5. NativeCallProxy.h をパブリックにする
 （TODO:スクショ）
