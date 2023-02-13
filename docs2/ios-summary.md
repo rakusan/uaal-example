@@ -48,7 +48,7 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
 ### 5. NativeCallProxy.h をパブリックにする
 - ```Unity-iPhone/Libraries/Plugins/iOS/NativeCallProxy.h``` を選択
 - Target Membership で UnityFramework を有効にし、Public に設定
-<br><img src="images/NativeCallProxy.h.png" width="30%">
+<br><img src="images/NativeCallProxy1.png" width="30%">　　　<img src="images/NativeCallProxy2.png" width="30%">
 
 ### 6. Dataフォルダの Target Membership を UnityFramework に変更
 （TODO: スクショ）
