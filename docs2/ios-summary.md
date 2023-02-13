@@ -28,8 +28,8 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
 
 ### 2. Unityエディタでの操作
 - Unityエディタで ```uaal-example/UnityProject``` を開く
-- BundleID と Signing Team ID を設定（TODO:スクショ）
-- プラットフォームをiOSに（TODO:スクショ）
+- BundleID と Signing Team ID を設定
+- プラットフォームをiOSに
 - iosBuildフォルダ内にビルド（フォルダ名は何でもいいが）（TODO:スクショ）
   - Unity-iPhone.xcodeproj ができる
 
