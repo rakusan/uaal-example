@@ -1,37 +1,32 @@
-Unity as a Libraryのサンプルプロジェクトを試す
+# Unity as a Libraryのサンプルプロジェクトを試す
 
-
-Unity as a Libraryとは
-
+## Unity as a Libraryとは
 Unityを使った開発は通常、アプリ全体をUnityで開発しますが、Unity as a Libraryを使用すると、
 XcodeやAndroid Studioで開発したネイティブアプリ内の一部のみをUnityで開発することができます。
 なお、Unity as a Library は UaaL と略します。
 
-
-サンプルプロジェクト
-https://github.com/Unity-Technologies/uaal-example
-このリポジトリ内にあるiOSプロジェクトのコードはObjective-Cで書かれています。
-そこで、Objective-Cのコードをswiftに書き直したものを作りました。
-https://github.com/rakusan/uaal-example
+## Swift版サンプルプロジェクト
+https://github.com/Unity-Technologies/uaal-example  
+元のリポジトリ内にあるiOSプロジェクトのコードはObjective-Cで書かれています。
+そこで、Objective-Cのコードをswiftに書き直したものを作りました。  
+https://github.com/rakusan/uaal-example  
 以下では、このswift版の方を使用します。
 
 なお、ここではiOSについてのみ触れAndroidについては触れません（自分はまだAndroidのUaaLについては把握できていません）
 
-
-サンプルプロジェクトを試す
-https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
+## サンプルプロジェクトを試す
+https://github.com/rakusan/uaal-example/blob/master/docs/ios.md  
 基本的にはここに書いてある通りの手順を踏めば試せます。以下はそれを日本語で要約したものです。
 
+### 必要なもの
+- Xcodeはできるだけ新しいものを使用してください（少し古いのでも大丈夫っぽいですが）
+- Unityは2022.2.5f1を推奨します
 
-準備
-Xcodeはできるだけ新しいものを使用してください（少し古いのでも大丈夫っぽいですが）
-Unityは2022.2.5f1を推奨します
 
+### 1. プロジェクトの取得
+```git clone https://github.com/rakusan/uaal-example.git```
 
-1. プロジェクトの取得
-git clone https://github.com/rakusan/uaal-example.git
-
-2. Unityエディタでの操作
+### 2. Unityエディタでの操作
 Unityエディタで uaal-example/UnityProject を開く
 BundleIDとSigning Team IDを設定
 （スクショ）
