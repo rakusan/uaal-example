@@ -62,12 +62,13 @@ NativeiOSApp scheme を選んで実行
 ## 実行時の画面の説明
 
 ### 初期画面
-<br><img src="images/screenshot1.jpeg" width="30%">  
-これはSwiftのコードで動いているUIです。  
-（TODO:コードのスクショ）  
+<img src="images/screenshot1.jpeg" width="30%">  
+これはSwiftのコード（NativeiOSApp.viewDidLoad）で動いているUIです。  
+<img src="images/NativeiOSApp_viewDidLoad.png" width="70%">
 
 ### initボタンを押すとUnityが起動
-（TODO:スクショ）
+<img src="images/screenshot2.jpeg" width="30%">  
+
 - 背景と豆腐、黒地に白文字のボタンはUnity側で出している
 - 緑・黄・赤のボタンはSwift側で出している
 
