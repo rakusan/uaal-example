@@ -34,8 +34,8 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
   - Unity-iPhone.xcodeproj ができる
 
 ### 3. Xcodeワークスペースの作成
--- 空のXcodeワークスペースを作成 (both.xcworkspace)（TODO:スクショ）
--- NativeiOSApp.xcodeproj と Unity-iPhone.xcodeproj をワークスペースに追加（TODO:スクショ）
+- 空のXcodeワークスペースを作成 (both.xcworkspace)（TODO:スクショ）
+- NativeiOSApp.xcodeproj と Unity-iPhone.xcodeproj をワークスペースに追加（TODO:スクショ）
 
 ### 4. UnityFramework.framework を追加
 - Generalタブの ```Frameworks, Libraries, and Embedded Content``` に ```Unity-iPhone/UnityFramework.framework``` を追加
