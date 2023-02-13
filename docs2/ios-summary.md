@@ -51,24 +51,21 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
 （TODO:スクショ）
 
 
-実行時の画面の説明
+## 実行時の画面の説明
 
-初期画面
-（画面のスクショ）
-swiftのコードで書いたUIを表示している
-（コードのスクショ）
+### 初期画面
+（TODO:画面のスクショ）  
+これはSwiftのコードで書いたUI
+（TODO:コードのスクショ）  
 
-initボタンを押すとUnityが起動
-背景と豆腐、黒地に白文字のボタンはUnity側、
-緑・黄・赤のボタンはswift側で出しているもの。
+### initボタンを押すとUnityが起動
+（TODO:スクショ）
+- 背景と豆腐、黒地に白文字のボタンはUnity側で出している
+- 緑・黄・赤のボタンはSwift側で出している
 
-initでUnityを起動
-
-Show MainでUnityを非表示に → Show UnityでUnityを表示
-
-UnloadでUnityをアンロード → 再度 init でUnityを起動（初期状態から）
-
-Send Msgでswift側からUnity側にメッセージを送信
-Show Main with ColorでUnity側からswift側にメッセージを送信
-
-Quit: Unityを完全に終了。以降、再度 init も不可。
+### その他のボタン
+- ```Show Main```でUnityを非表示に → ```Show Unity```でUnityを表示
+- ```Unload```でUnityをアンロード → 再度```init```でUnityを起動（初期状態から）
+- ```Send Msg```でSwift側からUnity側にメッセージを送信
+- ```Show Main with Color```でUnity側からSwift側にメッセージを送信
+- ```Quit```Unityを完全に終了。以降、再度```init```は不可
