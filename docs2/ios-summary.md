@@ -30,12 +30,15 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
 - Unityエディタで ```uaal-example/UnityProject``` を開く
 - BundleID と Signing Team ID を設定
 - プラットフォームをiOSに
-- iosBuildフォルダ内にビルド（フォルダ名は何でもいいが）（TODO:スクショ）
+- iosBuildフォルダ内にビルド（フォルダ名は何でもいいが）
   - Unity-iPhone.xcodeproj ができる
+<br><img src="images/iosBuild.png" width="50%">
 
 ### 3. Xcodeワークスペースの作成
-- 空のXcodeワークスペースを作成 (both.xcworkspace)（TODO:スクショ）
-- NativeiOSApp.xcodeproj と Unity-iPhone.xcodeproj をワークスペースに追加（TODO:スクショ）
+- 空のXcodeワークスペースを作成 (both.xcworkspace)
+<br><img src="images/workspace1.png" width="30%">
+- NativeiOSApp.xcodeproj と Unity-iPhone.xcodeproj をワークスペースに追加
+<br><img src="images/workspace2.png" width="30%">
 
 ### 4. UnityFramework.framework を追加
 - Generalタブの ```Frameworks, Libraries, and Embedded Content``` に ```Unity-iPhone/UnityFramework.framework``` を追加
