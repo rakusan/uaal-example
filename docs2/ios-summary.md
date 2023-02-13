@@ -51,7 +51,9 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
 <br><img src="images/NativeCallProxy1.png" width="30%">　　　<img src="images/NativeCallProxy2.png" width="30%">
 
 ### 6. Dataフォルダの Target Membership を UnityFramework に変更
-（TODO: スクショ）
+- ```Unity-iPhone/Data``` を選択
+- Target Membership を UnityFramework に変更
+<br><img src="images/Data1.png" width="30%">　　　<img src="images/Data2.png" width="30%">
 
 ## ビルド
 （TODO:スクショ）
