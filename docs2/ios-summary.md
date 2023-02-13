@@ -27,33 +27,28 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
 ```git clone https://github.com/rakusan/uaal-example.git```
 
 ### 2. Unityエディタでの操作
-Unityエディタで uaal-example/UnityProject を開く
-BundleIDとSigning Team IDを設定
-（スクショ）
-プラットフォームをiOSに
-（スクショ）
-ビルド
-（スクショ：Unity-iPhone.xcodeproj ができる）
+- Unityエディタで ```uaal-example/UnityProject``` を開く
+- BundleID と Signing Team ID を設定（TODO:スクショ）
+- プラットフォームをiOSに（TODO:スクショ）
+- iosBuildフォルダ内にビルド（フォルダ名は何でもいいが）（TODO:スクショ）
+  - Unity-iPhone.xcodeproj ができる
 
-3. Xcodeワークスペースの作成
-空のXcodeワークスペースを作成 (both.xcworkspace)
-（スクショ）
-NativeiOSApp.xcodeproj と Unity-iPhone.xcodeproj をワークスペースに追加
-（スクショ）
+### 3. Xcodeワークスペースの作成
+-- 空のXcodeワークスペースを作成 (both.xcworkspace)（TODO:スクショ）
+-- NativeiOSApp.xcodeproj と Unity-iPhone.xcodeproj をワークスペースに追加（TODO:スクショ）
 
-4. UnityFramework.framework を追加
-Generalタブの"Frameworks, Libraries, and Embedded Content"に Unity-iPhone/UnityFramework.framework を追加
-Build Phasesの"Link Binary With Libraries" からUnityFramework.frameworkを削除
+### 4. UnityFramework.framework を追加
+- Generalタブの ```Frameworks, Libraries, and Embedded Content``` に ```Unity-iPhone/UnityFramework.framework``` を追加
+- Build Phasesの ```Link Binary With Libraries``` から ```UnityFramework.framework``` を削除
 
-5. NativeCallProxy.h をパブリックにする
-（スクショ）
+### 5. NativeCallProxy.h をパブリックにする
+（TODO:スクショ）
 
-6. Dataフォルダの Target Membership を UnityFramework に変更
-（スクショ）
+### 6. Dataフォルダの Target Membership を UnityFramework に変更
+（TODO: スクショ）
 
-
-ビルド
-（スクショ）
+## ビルド
+（TODO:スクショ）
 
 
 実行時の画面の説明
