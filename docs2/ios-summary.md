@@ -56,7 +56,7 @@ https://github.com/rakusan/uaal-example/blob/master/docs/ios.md
 <br><img src="images/Data1.png" width="30%">　　　<img src="images/Data2.png" width="30%">
 
 ## ビルド
-（TODO:スクショ）
+NativeiOSApp scheme を選んで実行
 
 
 ## 実行時の画面の説明
