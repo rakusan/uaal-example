@@ -63,7 +63,7 @@ NativeiOSApp scheme を選んで実行
 
 ### 初期画面
 （TODO:画面のスクショ）  
-これはSwiftのコードで書いたUI
+これはSwiftのコードで動いているUIです。  
 （TODO:コードのスクショ）  
 
 ### initボタンを押すとUnityが起動
