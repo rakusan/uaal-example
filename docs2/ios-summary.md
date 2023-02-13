@@ -62,7 +62,7 @@ NativeiOSApp scheme を選んで実行
 ## 実行時の画面の説明
 
 ### 初期画面
-（TODO:画面のスクショ）  
+<br><img src="images/screenshot1.jpeg" width="30%">  
 これはSwiftのコードで動いているUIです。  
 （TODO:コードのスクショ）  
 
