@@ -63,7 +63,7 @@ NativeiOSApp scheme を選んで実行
 
 ### 初期画面
 <img src="images/screenshot1.jpeg" width="30%">  
-これはSwiftのコード（NativeiOSApp.viewDidLoad）で動いているUIです。  
+これは次のSwiftコード（NativeiOSApp.viewDidLoad）で動いているUIです。  
 <img src="images/NativeiOSApp_viewDidLoad.png" width="70%">
 
 ### initボタンを押すとUnityが起動
