@@ -15,7 +15,7 @@ https://github.com/rakusan/uaal-example
 なお、ここではiOSについてのみ触れAndroidについては触れません（自分はまだAndroidのUaaLについては把握できていません）
 
 ## サンプルプロジェクトを試す
-https://github.com/rakusan/uaal-example/blob/master/docs/ios.md  
+https://github.com/Unity-Technologies/uaal-example/blob/master/docs/ios.md  
 基本的にはここに書いてある通りの手順を踏めば試せます。以下はそれを日本語で要約したものです。
 
 ### 必要なもの
