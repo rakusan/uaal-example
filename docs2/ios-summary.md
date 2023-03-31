@@ -20,7 +20,7 @@ https://github.com/Unity-Technologies/uaal-example/blob/master/docs/ios.md
 
 ### 必要なもの
 - Xcodeはできるだけ新しいものを使用してください（少し古いのでも大丈夫っぽいですが）
-- Unityは2022.2.5f1を推奨します
+- Unityは2022.2.12f1を推奨します
 
 
 ### 1. プロジェクトの取得
