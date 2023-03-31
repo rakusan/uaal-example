@@ -19,7 +19,7 @@ https://github.com/Unity-Technologies/uaal-example/blob/master/docs/ios.md
 基本的にはここに書いてある通りの手順を踏めば試せます。以下はそれを日本語で要約したものです。
 
 ### 必要なもの
-- Xcodeはできるだけ新しいものを使用してください（少し古いのでも大丈夫っぽいですが）
+- Xcode14.2
 - Unityは2022.2.12f1を推奨します
 
 
